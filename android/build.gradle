@@ -20,6 +20,20 @@ android {
         versionCode 4
         versionName '2.12.1'
     }
+    buildTypes {
+        release {
+
+        }
+
+        debug {
+
+        }
+
+
+        releaseStaging {
+
+        }
+    }
 }
 
 dependencies {
